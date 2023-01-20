@@ -1,5 +1,6 @@
 # Exploratory Data Analysis with IMDB database
 SQL queries performed on a IMDB database containing scaled down data(Year 2017-2019) of the movies to explore the details of the database to analyse and gain insights.
+All Sql scripts were created and tested on SSMS 2016.
 
 ## Setup IMDB Database
 1. Run the Sql script SetupImdbDatabase.sql to create the database and the tables.
