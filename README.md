@@ -10,3 +10,4 @@ All Sql scripts were created and tested on SSMS 2016.
 1. Open the sql script BasicEDAQueries.sql to execute the queries.
 2. The above script contains analytical insights and the query results in comments.
 3. Run or Execute individual query to find the results.
+4. The summary and recommendations after the exploratory analysis is detailed in Summary.docx
